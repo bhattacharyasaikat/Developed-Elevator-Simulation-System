@@ -31,18 +31,4 @@ This project is a simulation of an elevator system implemented in C++. It is des
 1. **Clone the Repository**:  
    ```bash
    git clone https://github.com/bhattacharyasaikat/Elevator-Simulation-System
-## Example
-```bash
-Enter a floor number to request the elevator (or -1 to exit): 4
-Request to go up to floor 4 added.
-Elevator moving up to floor 1
-Elevator moving up to floor 2
-Elevator moving up to floor 3
-Elevator arrived at floor 4
-
-Enter a floor number to request the elevator (or -1 to exit): 2
-Request to go down to floor 2 added.
-Elevator moving down to floor 3
-Elevator moving down to floor 2
-Elevator arrived at floor 2
 
